@@ -1,0 +1,63 @@
+[gd_scene load_steps=3 format=3 uid="uid://d2s1yvr5317j5"]
+
+[ext_resource type="Script" path="res://Scenes/heartscontainer.gd" id="1_i5bmt"]
+
+[sub_resource type="FontFile" id="FontFile_7rmgt"]
+subpixel_positioning = 0
+msdf_pixel_range = 14
+msdf_size = 128
+cache/0/16/0/ascent = 0.0
+cache/0/16/0/descent = 0.0
+cache/0/16/0/underline_position = 0.0
+cache/0/16/0/underline_thickness = 0.0
+cache/0/16/0/scale = 1.0
+cache/0/16/0/kerning_overrides/16/0 = Vector2(0, 0)
+
+[node name="heartscontainer" type="Panel"]
+offset_top = -8.0
+offset_right = 162.0
+offset_bottom = 94.0
+script = ExtResource("1_i5bmt")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 0
+offset_left = 391.0
+offset_top = -161.0
+offset_right = 491.0
+offset_bottom = -142.0
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 392.0
+offset_top = -161.0
+offset_right = 448.0
+offset_bottom = -135.0
+scale = Vector2(0.75, 0.75)
+theme_override_fonts/font = SubResource("FontFile_7rmgt")
+text = "Score: "
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="."]
+layout_mode = 0
+offset_left = 430.0
+offset_top = -161.0
+offset_right = 470.0
+offset_bottom = -135.0
+scale = Vector2(0.75, 0.75)
+text = "x"
+
+[node name="Label3" type="Label" parent="."]
+layout_mode = 0
+offset_left = 8.0
+offset_top = 7.0
+offset_right = 302.0
+offset_bottom = 189.0
+scale = Vector2(0.3, 0.3)
+text = "Conrtols:
+- jump: SPACE
+-reset: R
+-flip: W/UP ARROW
+
+Goal:
+-DO FLIPS BY HOLDING UP
+-HAVE THE HIGHEST SCORE POSSIBLEE"

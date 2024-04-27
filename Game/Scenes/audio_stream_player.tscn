@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://c320q43lg4wnx"]
+
+[ext_resource type="AudioStream" uid="uid://df803ed16yonv" path="res://audio/snb2003.mp3" id="1_46gmy"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_46gmy")
+autoplay = true

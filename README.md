@@ -21,7 +21,9 @@
 - Understanding the Godot Engine was a challenge, since Godot has recently made a new update, a lot of the documentation available is outdated.
 - Keeping the character in place on slopes. Since there is gravity involved the character kept bouncing a lot so after extensive research I finally found the one setting to change to prevent exessive bumping
 - Figuring out how to put audio in game. It wasn't well documented and I struggled to find a way to have the sound effects in game, and to make it randomized.
-- 
+- Level mapping was tedious and at some point I had to go over all the angled tiles since they had the wrong collisions
+- Finding the right function to implement gravity was a process of trial and error to see what fall speed feels right
+- Somehow the spike collisions were not working and took a long time to fix since the layer system of my level was not configured properly
 
 ## Where to get the release?
 🎮You can get the game for free at my [Itch.io](https://cocojambo76.itch.io/snowboard2003) page! <br>

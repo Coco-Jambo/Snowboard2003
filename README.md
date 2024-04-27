@@ -18,8 +18,8 @@
 ⚠️Avoid Spikes: Beware of obstacles scattered throughout the course. Spikes pose a threat by slowing you down and deducting points from your score. Stay vigilant and maneuver skillfully to evade them. <br> <br>
 🔊The fun twist: The theme for the gamejam was to make a funny game. Since it was the first game I made I wanted to make a game I would enjoy playing and didn't want to make a gimmicky Wario Ware type game. So I tweaked every sound effect to sound fun and the sound mess when events accumulate is pure gold. I took inspiration from sonic rush when you do figures and the sound effects just keep piling up like wild.
 
-## Where to get the release?
-🎮You can get the game for free at my [Itch.io](https://cocojambo76.itch.io/snowboard2003) page! <br>
+## Where to get the game?
+🎮You can get the game for free at my [Itch.io](https://cocojambo76.itch.io/snowboard2003) page, it is a simple .exe file which works with any windows device! <br>
 🎹Hey, did you know I also make music? 🎵 Check out my [Linktree](https://linktr.ee/funky.jambo) to check out what I do! I do a variety of genres, enjoy!
 
 ## Challenges

@@ -17,6 +17,11 @@
 <br>📍The Goal: Do flips and tricks! Each successful trick earns you points, and just like old-school games, you want to get the highest score possible.<br> <br>
 ⚠️Avoid Spikes: Beware of obstacles scattered throughout the course. Spikes pose a threat by slowing you down and deducting points from your score. Stay vigilant and maneuver skillfully to evade them. <br> <br>
 🔊The fun twist: The theme for the gamejam was to make a funny game. Since it was the first game I made I wanted to make a game I would enjoy playing and didn't want to make a gimmicky Wario Ware type game. So I tweaked every sound effect to sound fun and the sound mess when events accumulate is pure gold. I took inspiration from sonic rush when you do figures and the sound effects just keep piling up like wild.
+
+## Where to get the release?
+🎮You can get the game for free at my [Itch.io](https://cocojambo76.itch.io/snowboard2003) page! <br>
+🎹Hey, did you know I also make music? 🎵 Check out my [Linktree](https://linktr.ee/funky.jambo) to check out what I do! I do a variety of genres, enjoy!
+
 ## Challenges
 - Understanding the Godot Engine was a challenge, since Godot has recently made a new update, a lot of the documentation available is outdated.
 - Keeping the character in place on slopes. Since there is gravity involved the character kept bouncing a lot so after extensive research I finally found the one setting to change to prevent exessive bumping
@@ -24,10 +29,6 @@
 - Level mapping was tedious and at some point I had to go over all the angled tiles since they had the wrong collisions
 - Finding the right function to implement gravity was a process of trial and error to see what fall speed feels right
 - Somehow the spike collisions were not working and took a long time to fix since the layer system of my level was not configured properly
-
-## Where to get the release?
-🎮You can get the game for free at my [Itch.io](https://cocojambo76.itch.io/snowboard2003) page! <br>
-🎹Hey, did you know I also make music? 🎵 Check out my [Linktree](https://linktr.ee/funky.jambo) to check out what I do! I do a variety of genres, enjoy!
 
 ## Screenshots
 ![image](https://github.com/Coco-Jambo/Snowboard2003/assets/92837183/83e6a090-3b47-45bc-ba57-d13cfa87b470)

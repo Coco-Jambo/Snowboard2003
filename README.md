@@ -25,7 +25,7 @@
 
 ## Where to get the release?
 🎮You can get the game for free at my [Itch.io](https://cocojambo76.itch.io/snowboard2003) page! <br>
-🎹Hey, did you know I also make music? 🎵 Check out my Linktree [here](https://linktr.ee/) to check out what I do! I do a variety of genres, enjoy!
+🎹Hey, did you know I also make music? 🎵 Check out my [Linktree](https://linktr.ee/funky.jambo) to check out what I do! I do a variety of genres, enjoy!
 
 ## Screenshots
 ![image](https://github.com/Coco-Jambo/Snowboard2003/assets/92837183/83e6a090-3b47-45bc-ba57-d13cfa87b470)
